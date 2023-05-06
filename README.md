@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del mod2 del Precourse Henry
+este proyecto en una prueba de como crear un repositorio y clonarno desde githaub a mi escritorio local.
